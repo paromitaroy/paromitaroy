@@ -9,3 +9,7 @@
 
 
 ![Proy's github stats](https://github-readme-stats.vercel.app/api?username=paromitaroy&show_icons=true&theme=react)
+
+Thanks for stopping by!
+
+<img src="https://octodex.github.com/images/femalecodertocat.png" width=300 heigth=200>
