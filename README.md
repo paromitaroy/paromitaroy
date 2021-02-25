@@ -10,6 +10,8 @@
 
 ![Proy's github stats](https://github-readme-stats.vercel.app/api?username=paromitaroy&show_icons=true&theme=react)
 
-Thanks for stopping by!
+<h3 align="center">Thanks for stopping by!</h3>
 
-<img src="https://octodex.github.com/images/femalecodertocat.png" width=300 heigth=200>
+<p align = "center">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" width=300 heigth=200 align="center">
+<p/>
