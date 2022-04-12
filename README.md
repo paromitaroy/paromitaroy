@@ -1,7 +1,7 @@
 ### Hiya! :honeybee:
 
 
-- 🔭 I’m currently working on App Innovation & Infrastructure => Terraform & DevOps:heart:
+- 🔭 I’m currently working on App Innovation & Infrastructure => DevOps & IaC:heart:
 - 🌱 I’m currently learning K8s 
 - 💬 Ask me about Azure
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paromita-roy-46462214)](https://www.linkedin.com/in/paromita-roy-46462214/)
