@@ -9,6 +9,11 @@
 
 ![Proy's github stats](https://github-readme-stats.vercel.app/api?username=paromitaroy&show_icons=true&theme=react)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paromitaroy&layout=compact)]()
+
+#### Where my fingertips have been busy this week... 
+
+
 <h3 align="center">Thanks for stopping by!</h3>
 
 <p align = "center">
