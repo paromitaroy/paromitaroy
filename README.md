@@ -11,8 +11,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paromitaroy&layout=compact)]()
 
-#### Where my fingertips have been busy this week... 
-
 
 <h3 align="center">Thanks for stopping by!</h3>
 
